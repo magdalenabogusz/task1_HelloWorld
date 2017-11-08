@@ -15,6 +15,7 @@ public class HelloWorld {
 
         Printer p = new Printer();
         p.printString("khj");
+        p.printString("khj");
 
     }
 
